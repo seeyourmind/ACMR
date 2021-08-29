@@ -5,7 +5,7 @@ Original PyTorch implementation of "Learning Aligned Cross-Modal Representations
 
 ### Requirements
 
-The code was implemented using Python 3.5.6 and the following packages:
+The code was implemented using Python 3.6.0 and the following packages:
 
 ```
 torch==1.5.0
