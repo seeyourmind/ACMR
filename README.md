@@ -2,15 +2,7 @@
 
 Original PyTorch implementation of "Learning Aligned Cross-Modal Representations for Generalized Zero-Shot Classification".
 
-<iframe src="https://github.com/seeyourmind/ACMR/blob/master/arch-ACMR.pdf" />
-
-<object data="https://github.com/seeyourmind/ACMR/blob/master/arch-ACMR.pdf" type="application/pdf" width="700px" height="700px"> 
-    <embed src="https://github.com/seeyourmind/ACMR/blob/master/arch-ACMR.pdf"> 
-     This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/seeyourmind/ACMR/blob/master/arch-ACMR.pdf">Download PDF</a>.</p> 
-    </embed> 
-</object> 
-
-
+<img src="https://github.com/seeyourmind/ACMR/blob/master/arch-ACMR.png" />
 
 ### Requirements
 
