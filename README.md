@@ -20,9 +20,7 @@ scikit_learn==0.23.2
 
 ### Data
 
-Download the following [folder]( https://www.dropbox.com/sh/btoc495ytfbnbat/AAAaurkoKnnk0uV-swgF-gdSa?dl=0) supplied by  [CADA-VAE](https://arxiv.org/pdf/1812.01784.pdf)
-and put it in this repository.
-Next to the folder "model", there should be a folder "data".
+Download the following [folder]( https://www.dropbox.com/sh/btoc495ytfbnbat/AAAaurkoKnnk0uV-swgF-gdSa?dl=0) and put it in this repository. Next to the folder "model", there should be a folder "data".
 
 
 
